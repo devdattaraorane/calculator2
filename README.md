@@ -7,3 +7,5 @@ Simple Calculator Using Javascript
 Made as an assignment while learning Javascript
 
 Domo: https://muhammadovi.github.io/js-calculator
+
+https://github.com/devdattaraorane/calculator2.git
